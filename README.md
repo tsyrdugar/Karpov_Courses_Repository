@@ -1,2 +1,1 @@
-# vk_airflow_report_ad
-Automatization report by advertising campaign
+Projects and tasks which I was solving in during the course
